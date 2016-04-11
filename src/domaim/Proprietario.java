@@ -1,3 +1,4 @@
+package domaim;
 import controle.cadastro.Veiculo;
 
 public class Proprietario {
